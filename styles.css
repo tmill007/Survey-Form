@@ -1,0 +1,27 @@
+:root {
+    --color-white: #f3f3f3;
+    --color-drkblue: #1b1b32;
+    --color-drkblue-alpha: rgba(27, 27, 50, 1);
+    --color-green: #37af65;
+    
+}
+
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Poppins', sans-serif;
+    color: var(--color-white);
+    background: linear-gradient(rgba(27, 27, 50, 0.9), rgba(27, 27, 50, 0.9)), url(./img/jason-goodman-bzqU01v-G54-unsplash.jpg) center center fixed no-repeat;
+    background-size: cover;
+    height: 100%;  
+}
+
+.bg-img {
+    ;
+    
+    
+}
